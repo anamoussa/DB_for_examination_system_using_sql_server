@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="sql_project_onFire">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-KC6KE70\MOUSSA:DESKTOP-KC6KE70\Moussa">
+          <Created>2022-09-10T01:31:51.3732572+02:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-KC6KE70\MOUSSA</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>sqlproject</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="chooseExamQuestionsAotomatically.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>chooseExamQuestionsAotomatically.sql</FullPath>
+        </FileNode>
+        <FileNode Name="chooseQuesExamManual.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>chooseQuesExamManual.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>create_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="differernte_criteria.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>differernte_criteria.sql</FullPath>
+        </FileNode>
+        <FileNode Name="file_group.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>file_group.sql</FullPath>
+        </FileNode>
+        <FileNode Name="insert_into_tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>insert_into_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="instructor_procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>instructor_procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="manager_proceduress.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>manager_proceduress.sql</FullPath>
+        </FileNode>
+        <FileNode Name="runing_DB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>runing_DB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Student_exam_result.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Student_exam_result.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ttriggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-KC6KE70\MOUSSA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-KC6KE70\MOUSSA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ttriggers.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
